@@ -8,12 +8,13 @@ Things I plan on adding:
 
 * Types of work
 
-* Worker Profiles
-  ** Ratings
-  ** Comments
-  ** Type of labor
-  ** Price per hour
-  ** Portfolio
+* Worker Profiles with:
+
+    * Ratings
+    * Comments
+    * Type of labor
+    * Price per hour
+    * Portfolio
 
 * Messaging System
 
